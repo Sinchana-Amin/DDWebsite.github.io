@@ -186,3 +186,8 @@
 	height: 1000px;
 }
 }
+@media(max-width:477px){
+.ourservices{
+	height: 1300px; /*height of whole div*/
+}
+}
